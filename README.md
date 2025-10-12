@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimal-prakash&label=Profile%20views&color=0e75b6&style=flat" alt="bimal-prakash" /> </p>
 
-- 🔭 I’m currently working on **Intelligent tourist system**
+- 🔭 I’m currently working on **Nyrosphere**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently creating fascinating personal projects 
 
 - 📫 How to reach me **bimal4official@gmail.com**
 
