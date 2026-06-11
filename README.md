@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bimal Prakash</h1>
-<h3 align="center">👋 Hi there! I’m Bimal Prakash, a passionate AI student with expertise in Database Management. I love working on Database and collaborating with others in the tech community.</h3>
+<h3 align="center">👋 Hi there! I’m Bimal Prakash, a passionate AI student with expertise in Applied AI. I love working on AI based systems and collaborating with others in the tech community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimal-prakash&label=Profile%20views&color=0e75b6&style=flat" alt="bimal-prakash" /> </p>
 
-- 🔭 I’m currently working on **Nyrosphere**
+- 🔭 I’m currently working on **JARVIS** a personal Agentic assistant
 
 - 🌱 I’m currently creating fascinating personal projects 
 
-- 📫 How to reach me **bimal4official@gmail.com**
+- 📫 How to reach me **bimalpb123l@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
