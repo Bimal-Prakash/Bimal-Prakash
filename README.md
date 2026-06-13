@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently creating fascinating personal projects 
 
-- 📫 How to reach me **bimalpb123l@gmail.com**
+- 📫 How to reach me **bimalpb123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
